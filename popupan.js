@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/canhoquynhonmelodyhungthinh/';
+	var url_popup = 'https://www.facebook.com/vungtaupearl/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
