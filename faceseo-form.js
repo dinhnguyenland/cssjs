@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://dinhnguyenland.blogspot.com/s";
+	window.location="https://nhadatdautu247.com/";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
